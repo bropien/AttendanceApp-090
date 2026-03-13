@@ -9,11 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "expo": "54.0.6",
     "expo-status-bar": "~55.0.4",
     "react": "19.2.0",
     "react-native": "0.83.2",
     "react-native-safe-area-context": "~5.6.0"
+=======
+    "expo": "54.0.0",
+    "expo-status-bar": "~55.0.4",
+    "react": "19.2.0",
+    "react-native": "0.83.2"
+>>>>>>> 6cc02b47764df50c7674e2f19887ef5b248dfd5a
   },
   "private": true
 }
